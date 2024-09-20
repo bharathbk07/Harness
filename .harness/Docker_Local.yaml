@@ -1,0 +1,6 @@
+environment:
+  name: Docker Local
+  identifier: Docker_Local
+  orgIdentifier: default
+  projectIdentifier: default_project
+  type: PreProduction
